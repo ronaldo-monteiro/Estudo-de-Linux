@@ -18,7 +18,7 @@ Ao contrário de sistemas operacionais como o Windows ou macOS, que são **fecha
 - **Estabilidade**: O Linux é muito estável, sendo a escolha preferida para servidores e sistemas críticos.
 - **Desempenho**: Pode ser executado em hardware mais modesto, o que o torna ideal para dispositivos mais antigos ou sistemas com recursos limitados.
 
-## O Linux no dia a dia
+## O Linux no dia a dia.
 
 Embora o Linux seja tradicionalmente popular em servidores e entre desenvolvedores, ele também tem ganhado força como uma opção de desktop para usuários comuns. Com distribuições como o Ubuntu, Mint e Fedora, o Linux oferece uma experiência de usuário amigável e intuitiva, além de ser uma excelente alternativa para quem busca um sistema operacional mais seguro, rápido e sem custos.
 
