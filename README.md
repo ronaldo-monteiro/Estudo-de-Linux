@@ -20,7 +20,7 @@ Ao contrário de sistemas operacionais como o Windows ou macOS, que são **fecha
 
 ## O Linux no dia a dia
 
-Embora o Linux seja tradicionalmente popular em servidores e entre desenvolvedores, ele também tem ganhado força como uma opção de desktop para usuários comuns. Com distribuições como o Ubuntu, Mint e Fedora, o Linux oferece uma experiência de usuário amigável e intuitiva, além de ser uma excelente alternativa para quem busca um sistema operacional mais seguro, rápido e sem custos
+Embora o Linux seja tradicionalmente popular em servidores e entre desenvolvedores, ele também tem ganhado força como uma opção de desktop para usuários comuns. Com distribuições como o Ubuntu, Mint e Fedora, o Linux oferece uma experiência de usuário amigável e intuitiva, além de ser uma excelente alternativa para quem busca um sistema operacional mais seguro, rápido e sem custos.
 
 ## Por que aprender Linux?
 
