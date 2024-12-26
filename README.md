@@ -49,12 +49,15 @@ Este repositório tem o objetivo de compartilhar informações, tutoriais e dica
  - [SITE DA LPI - EXCELENTES CONTEÚDOS SOBRE LINUX](https://www.lpi.org/) - Não poderia deixar de fora o site da LPI LINUX PROFESSIONAL INSTITUTE
 
 
+- [Linuxando](https://linuxando.com/tutorial.php?t=Linux%20para%20iniciantes_1) - Site com bastante conteúdo sobre linux para iniciantes.
+
+
 - [Viva o Linux](https://www.vivaolinux.com.br/) - Uma das maiores comunidades brasileiras de usuários de Linux, com artigos, tutoriais e fóruns.
 
 
-- [Linuxando](https://linuxando.com/tutorial.php?t=Linux%20para%20iniciantes_1) - Site com bastante conteúdo sobre linux para iniciantes.
+
 
 ## Este é o mascote do linux, Tux!
-![Pinguim do Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+-![Pinguim do Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 
