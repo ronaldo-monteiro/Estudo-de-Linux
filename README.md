@@ -24,7 +24,7 @@ Embora o Linux seja tradicionalmente popular em servidores e entre desenvolvedor
 
 ## Por que aprender Linux?
 
-Aprender sobre o Linux pode abrir muitas portas no mundo da tecnologia. Além de ser amplamente utilizado em servidores e infraestruturas em nuvem, o Linux também é fundamental para áreas como **desenvolvimento de software**, **administração de sistemas** e **segurança da informação**. Sua popularidade entre programadores e profissionais de TI também significa que a demanda por especialistas em Linux está sempre em alta.
+Aprender sobre o Linux pode abrir muitas portas no mundo da tecnologia. Além de ser amplamente utilizado em servidores e infraestruturas em nuvem, o Linux também é fundamental para áreas como. **desenvolvimento de software**, **administração de sistemas** e **segurança da informação**. Sua popularidade entre programadores e profissionais de TI também significa que a demanda por especialistas em Linux está sempre em alta.
 
 Este repositório tem o objetivo de compartilhar informações, tutoriais e dicas sobre o mundo do Linux, visando ajudar tanto iniciantes quanto usuários avançados a explorar as diversas possibilidades desse poderoso sistema operacional.
 
