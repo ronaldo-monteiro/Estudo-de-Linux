@@ -1,6 +1,6 @@
 
 
-# Introdução ao Linux
+# Introdução ao Linux.
 
 O **Linux** é um sistema operacional de código aberto que tem ganhado popularidade ao longo dos anos devido à sua flexibilidade, segurança e robustez. Criado por **Linus Torvalds** em 1991, o Linux é um sistema baseado no núcleo (kernel) Linux, e é a base para uma ampla gama de distribuições e sistemas operacionais.
 
