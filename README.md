@@ -53,9 +53,13 @@ Este repositório tem o objetivo de compartilhar informações, tutoriais e dica
 
 - [Linuxando](https://linuxando.com/tutorial.php?t=Linux%20para%20iniciantes_1) - Site com bastante conteúdo sobre linux para iniciantes.
 
-## Este é o mascote do linux, Tux!
--![Pinguim do Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 
 - [Documentação oficial do kernel do linux](https://www.kernel.org/doc/html/latest/) -Documentação oficial do Kernel do Linux
+
+
+
+
+## Este é o mascote do linux, Tux!
+-![Pinguim do Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
