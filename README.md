@@ -60,6 +60,6 @@ Este repositório tem o objetivo de compartilhar informações, tutoriais e dica
 
 
 
-## Este é o mascote do linux, Tux!
+## Este é o mascote do linux, o famoso Tux!
 -![Pinguim do Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
