@@ -57,3 +57,5 @@ Este repositório tem o objetivo de compartilhar informações, tutoriais e dica
 -![Pinguim do Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 
+- [Documentação oficial do kernel do linux](https://www.kernel.org/doc/html/latest/) -Documentação oficial do Kernel do Linux
+
